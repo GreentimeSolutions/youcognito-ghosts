@@ -4,7 +4,7 @@
 - input.json – solc standard-json input (all 37 sources incl. OpenZeppelin v5.1.0); recompiles byte-identical
 - compiler-version.txt – v0.8.24+commit.e11b9ed9 (optimizer on, 200 runs, evm cancun)
 - contract-target.txt – src/YoucogGhosts.sol:YoucogGhosts
-- encode-args.sh OWNER FAUCET ROYALTY_RECEIVER [YOUCOG] -> constructor-args.hex (NOT included: owner = Andy's Safe, address pending)
+- constructor-args.hex: owner = royaltyReceiver = 0xa959d8eeded6fb440ca584d1e87e581168bbf628 (Andy, Farcaster wallet), faucet 0x3067…13c7, YOUCOG 0x92Bf…EbA3. encode-args.sh regenerates it.
 
 Constructor: (owner, faucet, royaltyReceiver, youcog). Owner is explicit (Bankr CREATE2 proxy is msg.sender).
 Starts PAUSED, price 0, freeUntil 100. Flow: owner ownerMint(#1) -> unpause.
