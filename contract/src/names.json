@@ -1,0 +1,52 @@
+{
+ "hat": [
+  "Spy Fedora",
+  "Red Fedora",
+  "Gold Fedora",
+  "Beanie",
+  "Top Hat",
+  "Pixel Crown",
+  "Backwards Cap",
+  "Propeller Cap",
+  "Party Cone"
+ ],
+ "shades": [
+  "Spy Shades",
+  "Laser Visor",
+  "Ice Visor",
+  "Heart Shades",
+  "3D Glasses",
+  "Monocle",
+  "Deal-With-It"
+ ],
+ "skin": [
+  "Classic Sheet",
+  "Mint Sheet",
+  "Lilac Sheet",
+  "Trench Coat",
+  "Tuxedo",
+  "Glitch Sheet"
+ ],
+ "aura": [
+  "Blue Glow",
+  "Gold Glow",
+  "Fire Ring",
+  "Sparkles",
+  "Base Halo"
+ ],
+ "trail": [
+  "Mist Trail",
+  "Rainbow Trail",
+  "Coin Trail",
+  "Code Trail",
+  "Flame Trail"
+ ],
+ "prop": [
+  "Briefcase",
+  "Coffee",
+  "Balloon",
+  "Laptop",
+  "Magic Wand",
+  "Rubber Duck"
+ ]
+}

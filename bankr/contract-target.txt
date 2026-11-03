@@ -1,0 +1,1 @@
+src/YoucogGhosts.sol:YoucogGhosts
